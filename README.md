@@ -4,7 +4,7 @@
 
 This dashboard provides an overview of the COVID-19 (2019-nCoV) epidemic.
 
-[View the Dashboard](https://public.tableau.com/shared/9Y23ZJTPS?:display_count=n&:origin=viz_share_link)
+[View the Dashboard](https://public.tableau.com/shared/J4D3KC8YJ?:display_count=n&:origin=viz_share_link)
 
 # Data
 
