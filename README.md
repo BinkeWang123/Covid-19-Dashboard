@@ -15,7 +15,7 @@ The source of vaccination data can be found at the Our World in [Data vaccinati
 
 # SQL and Tableau
 
-I used Excel and SQL to clean and reorganize the data, and the used Tableau to visualize the data. The SQL scripts can be found [here](https://github.com/BinkeWang123/Covid-19-Dashboard/blob/main/covid%20portfolio%20project%20scripts.sql).
+I used Excel and SQL to clean and reorganize the data, and the used Tableau to visualize the data. The SQL scripts can be found [here](https://github.com/BinkeWang123/Covid-19-Dashboard/blob/main/Covid-19%20Dashboard%20Scripts).
 
 
 
